@@ -3,7 +3,7 @@
 # Description 
 This project demonstrates the use of Apache Spark for Big Data Machine Learning. We implement a classification model to predict heart disease using the Heart Disease UCI dataset. The project explores Spark ML Pipelines and compares different processing techniques.
 
-#Dataset
+# Dataset
 The Heart Disease UCI dataset contains medical records of patients, with various health-related features such as age, cholesterol level, blood pressure, and chest pain type. The goal is to predict the presence of heart disease based on these features.
 Objective of the Project
 We will build a Machine Learning pipeline using Apache Spark to:
