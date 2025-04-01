@@ -24,11 +24,11 @@ The dataset: HeartDiseaseUCI.csv
 
 # Project Structure
 /
-|-- spark_project.ipynb  # Notebook containing data analysis and model training
-|-- HeartDiseaseUCI.csv  # Dataset used for prediction
-|-- README.md  # Project documentation
+|-- spark_project.ipynb  #Notebook
+|-- HeartDiseaseUCI.csv  #Dataset
+|-- README.md  #Documentation
 
-#Steps 
+# Steps 
 - Install and configure Apache Spark on Google Colab.
 
 - Load the dataset and perform preprocessing: Handle missing values, Convert categorical features using StringIndexer, Assemble features using VectorAssembler.
